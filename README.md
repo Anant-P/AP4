@@ -1,2 +1,2 @@
-# AP4
 Discount Calculator 
+click to use it --> 
